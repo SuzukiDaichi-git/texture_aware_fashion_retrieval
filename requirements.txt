@@ -1,0 +1,18 @@
+clip @ git+https://github.com/openai/CLIP.git@f69a9bc217f6df9213628848b3f9b0b6fc542401
+certifi @ file:///croot/certifi_1665076670883/work/certifi
+cffi==1.14.5
+matplotlib==3.3.4
+numpy==1.21.4
+omegaconf==2.1.0
+pandas==1.1.5
+Pillow==8.3.1
+pytorch-lightning @ git+https://github.com/PyTorchLightning/pytorch-lightning@c335a7891d82b647f1bebcce030e88a94ba52ac0
+scikit-learn==1.0.2
+scipy==1.7.3
+tensorboard==2.11.0
+torch==1.9.0+cu111
+torchaudio==0.9.0
+torchmetrics==0.11.0
+torchvision==0.10.0+cu111
+tqdm==4.49.0
+transformers==4.10.1
